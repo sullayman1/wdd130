@@ -14,7 +14,7 @@
   /* these colors below should be chosen from among your palette colors above */
   --headline-color-on-white: #559ba2;  /* headlines on a white background */
   --headline-color-on-color: white; /* headlines on a colored background */
-  --paragraph-color-on-white: #559ba2; /* paragraph text on a white background */
+  --paragraph-color-on-white: #c7cdce; /* paragraph text on a white background */
   --paragraph-color-on-color: white; /* paragraph text on a colored background */
   --paragraph-background-color: #559ba2  ;
   --nav-link-color: #559ba2;
