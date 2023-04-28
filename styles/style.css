@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 nav {
     background-color: steelblue;
     padding: 10px;
@@ -5,24 +11,34 @@ nav {
 
 nav a {
     color: white;
+    padding: 10px;
     display: block;
-    padding: 20px;
 }
 
 h1 {
-    width: 150px;
-    height: auto;
-    border: 1px solid steelblue;
-    padding: 2px;
-    box-shadow: 0 0 30px gray;
+    color: steelblue;
+    padding: .5rem;
 }
+
+main {
+    max-width: 648px;
+}
+
 
 p {
     padding: 0px;
 }
 
 main {
-    max-width: 840px;
+    max-width: 640px;
+}
+
+main img {
+    width: 150px;
+    height: auto;
+    border: 1px solid steelblue;
+    padding: 2px;
+    box-shadow: 0.0.30px gray;
 }
 
 aside {
